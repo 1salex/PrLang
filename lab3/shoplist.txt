@@ -1,0 +1,16 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Cucumber",
+    "Comment": "-",
+    "CreditSpent": 10,
+    "DateOfPurchase": "2025-12-25T00:00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "tv",
+    "Comment": "-",
+    "CreditSpent": 300,
+    "DateOfPurchase": "1234-12-12T00:00:00"
+  }
+]
